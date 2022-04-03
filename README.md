@@ -1,6 +1,16 @@
 # quizzler
 
-A new Flutter project.
+A MCQ Quiz Flutter Application where user can give answer of 20 General knowledge MCQs.
+
+# What I Learned
+* Dart Language
+* Flutter
+* List and Map 
+* Popup notification
+* Reusable Widget
+* UI/UX Design
+
+## Note: I am providing image of all screen in repo.
 
 ## Getting Started
 
